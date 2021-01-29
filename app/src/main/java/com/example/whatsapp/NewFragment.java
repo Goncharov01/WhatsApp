@@ -29,8 +29,7 @@ public class NewFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        System.out.println("Fragment"+ cat.name);
+        System.out.println("Fragment" + cat.name);
         return inflater.inflate(R.layout.fragment_new, container, false);
     }
 }
