@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "735578860956",
+    "firebase_url": "https://gitproject-a96ae-default-rtdb.firebaseio.com",
+    "project_id": "gitproject-a96ae",
+    "storage_bucket": "gitproject-a96ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735578860956:android:d483b21820a82683346c59",
+        "android_client_info": {
+          "package_name": "com.boisneyphilippe.githubarchitecturecomponents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735578860956-nu644r5euka2fghg8nbfq0v4kslq2e96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZp0bH5Zr5nyjY1DYVqAO0D0i0zrPm-Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735578860956-nu644r5euka2fghg8nbfq0v4kslq2e96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735578860956:android:28bb841d659c37d0346c59",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735578860956-nu644r5euka2fghg8nbfq0v4kslq2e96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZp0bH5Zr5nyjY1DYVqAO0D0i0zrPm-Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735578860956-nu644r5euka2fghg8nbfq0v4kslq2e96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

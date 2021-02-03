@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements HasAndroidInjecto
 
         fragmentManager.beginTransaction().add(R.id.liner_layout, new NewFragment()).commit();
 
-        System.out.println(cat.age + "++++++++++++++++++++++");
+        System.out.println(cat.getAge() + "++++++++++++++++++++++");
 
     }
 
